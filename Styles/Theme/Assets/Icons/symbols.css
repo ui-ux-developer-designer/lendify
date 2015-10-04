@@ -1,0 +1,58 @@
+@font-face {
+  font-family: "symbols";
+  src: url('Files/symbols.eot');
+  src: url('Files/symbols.eot?#iefix') format('eot'),
+    url('Files/symbols.woff') format('woff'),
+    url('Files/symbols.ttf') format('truetype'),
+    url('Files/symbols.svg#symbols') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon,
+[class^='icon-'],
+[class*='icon-'] {
+  display: inline-block;
+  font-family: "symbols";
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-close:after { content: "\E001" }
+.icon-down:after { content: "\E002" }
+.icon-forward:after { content: "\E003" }
+.icon-glyph06:after { content: "\E004" }
+.icon-glyph07:after { content: "\E005" }
+.icon-glyph08:after { content: "\E006" }
+.icon-glyph09:after { content: "\E007" }
+.icon-glyph10:after { content: "\E008" }
+.icon-glyph11:after { content: "\E009" }
+.icon-glyph12:after { content: "\E00A" }
+.icon-glyph13:after { content: "\E00B" }
+.icon-glyph14:after { content: "\E00C" }
+.icon-glyph15:after { content: "\E00D" }
+.icon-glyph16:after { content: "\E00E" }
+.icon-glyph17:after { content: "\E00F" }
+.icon-glyph18:after { content: "\E010" }
+.icon-glyph19:after { content: "\E011" }
+.icon-glyph20:after { content: "\E012" }
+.icon-glyph21:after { content: "\E013" }
+.icon-glyph22:after { content: "\E014" }
+.icon-glyph23:after { content: "\E015" }
+.icon-glyph24:after { content: "\E016" }
+.icon-glyph25:after { content: "\E017" }
+.icon-glyph26:after { content: "\E018" }
+.icon-glyph27:after { content: "\E019" }
+.icon-glyph28:after { content: "\E01A" }
+.icon-glyph29:after { content: "\E01B" }
+.icon-glyph30:after { content: "\E01C" }
+.icon-glyph31:after { content: "\E01D" }
+.icon-glyph32:after { content: "\E01E" }
+.icon-menu:after { content: "\E01F" }
+.icon-options:after { content: "\E020" }
